@@ -1,0 +1,15 @@
+{
+  "name": "projectuser",
+  "version": "1.0.0",
+  "description": "A backend at ytClone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "kartik kumar",
+  "license": "ISC"
+}
